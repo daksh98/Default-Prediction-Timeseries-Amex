@@ -1,4 +1,4 @@
-# Predicting Credit Card Defualts Timeseries
+# Predicting Credit Card Defaults Timeseries
 
 ***under construction***
 
