@@ -2,17 +2,17 @@
 
 ***under construction***
 
-Predicting Credit Card Defaults with the Amex Data Set 
+## Predicting Credit Card Defaults with the Amex Data Set 
 
-Utlising Sk Pipeline and XGBoost
+### Utlising Sk Pipeline and XGBoost
 
-Pipeline: 
-preprocess: 
-  numeric: 
-    SimpleImputer
-      name: Imputer 
-      strategy: mean 
-      fill_value: -1
+- Pipeline: 
+- preprocess: 
+  - numeric: 
+  - SimpleImputer
+      - name: Imputer 
+      - strategy: mean 
+      - fill_value: -1
     StandardScalar 
       name: Scalar
       strategy: normalize
