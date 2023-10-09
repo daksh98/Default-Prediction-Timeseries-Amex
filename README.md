@@ -2,6 +2,8 @@
 
 ***under construction***
 
+## Data - https://www.kaggle.com/competitions/amex-default-prediction/data
+
 ## Predicting Credit Card Defaults with the Amex Data Set 
 
 ### Utlising Sk Pipeline and XGBoost
